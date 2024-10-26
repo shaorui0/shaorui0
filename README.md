@@ -8,6 +8,8 @@
 - **GitHub:** [https://github.com/shaorui0](https://github.com/shaorui0)
 - **LinkedIn**: [Justin Shao](https://www.linkedin.com/in/justin-shao-a21a55194/)
 
+## 💼 Summary
+
 - Cloud software development engineer with 3 years of experience in developing and optimizing cloud-native applications on Kubernetes. 
 - Proficient in Golang and Python, with a strong background in building scalable systems and automating deployment pipelines.
 - Adept at collaborating with cross-functional teams to deliver high-quality software solutions that support AI infrastructure.
