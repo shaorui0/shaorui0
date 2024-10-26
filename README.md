@@ -6,8 +6,7 @@
 
 - **Email:** [sr1054461216@gmail.com](mailto:sr1054461216@gmail.com)
 - **GitHub:** [https://github.com/shaorui0](https://github.com/shaorui0)
-
-## 💼 Summary
+- **LinkedIn**: [Justin Shao](https://www.linkedin.com/in/justin-shao-a21a55194/)
 
 - Cloud software development engineer with 3 years of experience in developing and optimizing cloud-native applications on Kubernetes. 
 - Proficient in Golang and Python, with a strong background in building scalable systems and automating deployment pipelines.
@@ -60,5 +59,5 @@ Wenhua College, Wuhan, China
 
 ## 🤝 Let's Connect
 
-Feel free to reach out via [email](mailto:sr1054461216@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/justin-shao-a21a55194/))!
+Feel free to reach out via [email](mailto:sr1054461216@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/justin-shao-a21a55194/)
 
