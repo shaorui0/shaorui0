@@ -1,7 +1,5 @@
 # Justin Shao
 
-![GitHub Banner](https://raw.githubusercontent.com/shaorui0/shaorui0/master/banner.png)
-
 ## 📫 Contact
 
 - **Email:** [sr1054461216@gmail.com](mailto:sr1054461216@gmail.com)
